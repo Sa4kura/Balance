@@ -1,0 +1,9 @@
+{
+  "name": "MY BALANCE",
+  "short_name": "MY BALANCE",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#faf9fb",
+  "theme_color": "#eee9f5",
+  "icons": []
+}
